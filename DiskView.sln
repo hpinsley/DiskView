@@ -8,6 +8,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskViewPlus", "DiskViewPlu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumpTypesAndFiles", "DumpTypesAndFiles\DumpTypesAndFiles.csproj", "{D14A067B-AA1B-4A54-B3CB-A92012384DCB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "blog", "blog", "{FC7A6629-25E1-4182-925E-2BA3EA9B524D}"
+	ProjectSection(SolutionItems) = preProject
+		blog\DiskView.html = blog\DiskView.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
